@@ -29,4 +29,5 @@ Não há uma diretriz de quantas aulas você deverá criar ou como deve criar o 
 Caso você esteja propondo um novo curso, faça uma prévia contendo apenas a introdução do curso e o exemplo de como seria a primeira aula.
 
 ### Revisão
-Quando terminar o conteúdo ou a prévia do seu curso, entre em contato com a Equipe Flew!
+Quando terminar o conteúdo ou a prévia do seu curso, entre em contato com a Equipe Flew!  
+Não tenha medo! Caso tenha quaisquer dúvida ou crítica, é só falar com a gente :D
